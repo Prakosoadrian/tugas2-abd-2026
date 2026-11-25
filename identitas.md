@@ -4,6 +4,6 @@ Nama Kelompok: [Nama Kelompok]
 
 | No | Nama Lengkap | NIM | Akun GitHub |
 |:--:|--------------|-----|-------------|
-| 1 | NamaDepan NamaBelakang | 200510370311000 | @username1 |
-| 2 | NamaDepan NamaBelakang | 200510370311000 | @username2 |
-| 3 | NamaDepan NamaBelakang | 200510370311000 | @username3 |
+| 1 | Vinito Adrian Prakoso | 202310370311269 | @Prakosoadrian |
+| 2 | M. Rayya Anugrahing Gusty | 202310370311298 | @Imnotray |
+
